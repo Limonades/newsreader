@@ -36,6 +36,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - `src/services/news` NewsService - to work with the API.
 - `src/components/Meta` component - to manage pages metadata.
 - `src/components/Layout` component - as a main reused container.
+- `env` file - with API_URL variable.
 - Added a watch mode TS check during development.
 - Eslint friendly.
 - Additional libs - Axios.
