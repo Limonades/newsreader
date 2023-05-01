@@ -32,7 +32,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### Features
 
-- For the list and detail pages, used Incremental Static Regeneration (ISR) for static content generation and automatic content updating.
+- For the list and detail pages, used Incremental Static Regeneration (ISR) for static content generation and automatic content updating with revalidation in 60.
 - `src/services/news` NewsService - to work with the API.
 - `src/components/Meta` component - to manage pages metadata.
 - `src/components/Layout` component - as a main reused container.
